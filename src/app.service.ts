@@ -7,6 +7,6 @@ export class AppService {
   }
 
   getUsers(): string {
-    return 'Listagem que retorna usuários';
+    return 'Listagem de usuários';
   }
 }
